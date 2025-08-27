@@ -213,5 +213,3 @@ ls output/  # Check for annotated video and JSON report
 **Performance**: Optimized for accuracy and real-time processing  
 
 ---
-
-*This system successfully meets all specified requirements for handheld phone detection with high accuracy and minimal false positives.*
