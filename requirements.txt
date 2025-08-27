@@ -1,0 +1,13 @@
+# Core dependencies for phone usage detection system
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.21.0
+moviepy>=1.0.3
+
+# Optional but recommended for better performance
+torch>=2.0.0
+torchvision>=0.15.0
+
+# System utilities
+Pillow>=9.0.0
