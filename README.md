@@ -206,7 +206,7 @@ ls output/  # Check for annotated video and JSON report
 
 ## 👨‍💻 Development Info
 
-**Developer**: Bhanu Sai Praneeth Sarva  
+**Name**: Bhanu Sai Praneeth Sarva  
 **LinkedIn**: [@https://www.linkedin.com/in/sarva-praneeth/](https://www.linkedin.com/in/sarva-praneeth/)  
 **Framework**: Python 3.8+, PyTorch, OpenCV, MediaPipe  
 **Model**: Custom YOLOv8 trained on phone/tap-to-pay dataset with focal loss  
